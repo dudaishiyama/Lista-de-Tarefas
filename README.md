@@ -16,6 +16,7 @@ Siga esses passos para instalar o repositório:
 As tecnologias utilizadas nesse projeto são:
 - HTML
 - CSS
+- JavaScript
 - React
 - React DOM
 
